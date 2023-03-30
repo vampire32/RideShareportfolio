@@ -10,7 +10,7 @@ import R5 from "../img/image6.png";
 import R6 from "../img/r6.png";
 import R7 from "../img/r7.png";
 import mobile from '../img/mobile.png'
-import Footer from '@/Components/footer';
+import Footer from "../Components/Footer";
 
 const Services = () => {
   return (
