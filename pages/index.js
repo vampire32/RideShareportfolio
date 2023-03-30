@@ -8,7 +8,7 @@ import {BsFillBuildingsFill} from "react-icons/bs"
 import R1 from '../img/R1.png'
 import R2 from "../img/R2.png";
 import R3 from "../img/R3.png";
-import Footer from '@/Components/footer';
+import Footer from '../Components/Footer';
 
 const inter = Inter({ subsets: ['latin'] })
 
